@@ -14,5 +14,15 @@ public class Main {
 		//ex3
 		DataTypesAndVariables.printMessage("\n" + "******bai3******" + "\n");
 		DataTypesAndVariables.printVariable();
+		//ex4
+		DataTypesAndVariables.printMessage("\n" + "******bai4******" + "\n");
+		DataTypesAndVariables.printBooleanVariable(false);
+		//ex6
+		DataTypesAndVariables.printMessage("\n" + "******bai5******" + "\n");
+		//DataTypesAndVariables.converseTemperature();
+		//ex7
+		DataTypesAndVariables.printMessage("\n" + "******bai6******" + "\n");
+		DataTypesAndVariables.converseMeter();
 	}
+	
 }
